@@ -1,0 +1,45 @@
+timestamp,message
+1713801224465,"INIT_START Runtime Version: python:3.12.v24	Runtime Version ARN: arn:aws:lambda:ap-south-1::runtime:8590facaf44edb362642b0ecdfb90ed1186c30d1933d9448c8afc99e1bbfe345
+"
+1713801224834,"START RequestId: 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e Version: $LATEST
+"
+1713801224834,"here
+"
+1713801224834,"awslambdaemployee employee3.csv
+"
+1713801227862,"2024-04-22T15:53:47.862Z 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e Task timed out after 3.03 seconds
+
+"
+1713801227862,"END RequestId: 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e
+"
+1713801227862,"REPORT RequestId: 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e	Duration: 3027.95 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 83 MB	Init Duration: 367.38 ms	
+"
+1713801227899,"INIT_START Runtime Version: python:3.12.v24	Runtime Version ARN: arn:aws:lambda:ap-south-1::runtime:8590facaf44edb362642b0ecdfb90ed1186c30d1933d9448c8afc99e1bbfe345
+"
+1713801293061,"START RequestId: 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e Version: $LATEST
+"
+1713801293061,"here
+"
+1713801293061,"awslambdaemployee employee3.csv
+"
+1713801295530,"<_csv.reader object at 0x7f793e151bd0>
+"
+1713801295530,"headers: ['user', 'name', 'salary', 'location', 'date', 'attendance']
+"
+1713801295530,"[['11', 'manish', '10000', 'US', '01/05/2022', 'y'], ['12', 'raj', '20000', 'India', '02/05/2022', 'y'], ['13', 'meg', '10000', 'India', '03/05/2022', 'n'], ['14', 'rah', '15000', 'India', '04/05/2022', 'n'], ['15', 'kish', '20000', 'India', '01/05/2022', 'y'], ['1', 'mani', '10000', 'US', '01/05/2022', 'y'], ['2', 'raju', '20000', 'India', '02/05/2022', 'y'], ['3', 'meggy', '10000', 'India', '03/05/2022', 'n'], ['4', 'rahu', '15000', 'India', '04/05/2022', 'n'], ['5', 'kishi', '20000', 'India', '01/05/2022', 'y'], ['16', 'rnish', '10000', 'US', '01/05/2022', 'y'], ['17', 'raja', '20000', 'India', '02/05/2022', 'y'], ['18', 'me', '10000', 'India', '03/05/2022', 'n'], ['19', 'ra', '15000', 'India', '04/05/2022', 'n'], ['20', 'kirsh', '20000', 'India', '01/05/2022', 'y'], ['11', 'manish', '10000', 'US', '01/05/2022', 'y'], ['12', 'raj', '20000', 'India', '02/05/2022', 'y'], ['13', 'meg', '10000', 'India', '03/05/2022', 'n'], ['14', 'rah', '15000', 'India', '04/05/2022', 'n'], ['15', 'kish', '20000', 'India', '01/05/2022', 'y']]
+"
+1713801295530,"Total India Salary Spend is  260000
+"
+1713801295530,"Total US Salary Spend is  40000
+"
+1713801295530,"Total India, US Salary Spend is ,(260000, 40000)
+"
+1713801296124,"2024-04-22T15:54:56.124Z 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e Task timed out after 3.06 seconds
+
+"
+1713801296124,"END RequestId: 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e
+"
+1713801296124,"REPORT RequestId: 9154a8a4-eaaf-4af6-86fa-dfe8f37c6e4e	Duration: 3062.93 ms	Billed Duration: 3000 ms	Memory Size: 128 MB	Max Memory Used: 35 MB	
+"
+1713801296143,"INIT_START Runtime Version: python:3.12.v24	Runtime Version ARN: arn:aws:lambda:ap-south-1::runtime:8590facaf44edb362642b0ecdfb90ed1186c30d1933d9448c8afc99e1bbfe345
+"
